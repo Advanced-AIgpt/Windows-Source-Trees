@@ -17,9 +17,8 @@ INCLUDE Source:
 - Documented Windows Nt Kernel And Source Code (Html)
 - Microsoft Patents
 
-[ windows_xp_source.rar
+====================================================================
+!!!Coming soon!!! | windows_xp_source.rar
 
-  !!!Coming soon!!!
-  
-  Password:
-]
+Password:
+====================================================================
