@@ -18,7 +18,10 @@ INCLUDE Source:
 - Microsoft Patents
 
 ====================================================================
-!!!Coming soon!!! | windows_xp_source.rar
 
-Password:
+!!!Coming soon!!!
+
+windows_xp_source.rar
+    Password:
+    
 ====================================================================
