@@ -17,6 +17,13 @@ INCLUDE Source:
 - Documented Windows Nt Kernel And Source Code (Html)
 - Microsoft Patents
 
+NB!!! I decided to also download all Microsoft's patents.
+
+      Anonymous provided a script, 
+      I modified it, and I've run it in the same directory a few times to verify that I got all the patents. 
+      
+NB!!! That script is included in the 'script' directory.
+
 ====================================================================
 
 !!!Coming soon!!!
