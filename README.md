@@ -24,12 +24,4 @@ NB!!! I decided to also download all Microsoft's patents.
       
 NB!!! That script is included in the 'script' directory.
 
-====================================================================
-
-!!!Coming soon!!!
-
-windows_xp_source.rar
-    Password:
-    
-====================================================================
 ![windows_source](https://github.com/user-attachments/assets/227d5159-18de-4c29-898f-1f7005e305c5)
