@@ -3,19 +3,24 @@ Windows 7, XP and other versions
 
 INCLUDE Source:
 
-- Windows 7
+- DDKs / WKDs (stretching from Win 3.11 to Windows 7)
+- Windows NT 3.5
+- Windows NT 4
 - Windows 2000
-- Widnows XP (SP 1)
-- Windows Server 2003 (build 3790) NT 5
-- NT 4
-- NT 3.5
-- Windows 2000 Native API (source code)
-- Developer eBooks
-- Some Wiki
-- DDK and WDK (stretching from Win 3.11 to Windows 7)
-- Windows Research Kernel 1.2
-- Documented Windows Nt Kernel And Source Code (Html)
-- Microsoft Patents
+- Windows 2000 Native API
+- Windows Server 2003 (build 3790)
+- Windows Research Kernel 1.2 and Source code, worktools
+- Windows 10 Shared Source Kit
+- MS-DOS 3.30 OEM Adaptation Kit
+- MS-DOS 6.0
+- Windows CE 3.0 Platform Builder
+- Windows CE 4.2
+- Windows CE 5.0
+- Windows CE 6.0 R3
+- Windows Embedded Compact 7.0
+- Windows Embedded Compact 2013 (CE 8.0)
+- Xbox Live (code says 2009)
+- Xbox OS (the "Barnabas" release 2020)
 
 NB!!! I decided to also download all Microsoft's patents.
 
