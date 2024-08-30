@@ -1,5 +1,5 @@
 # Windows-Source-Trees
-Windows 7, XP and other versions
+Windows 7 and other versions, Xbox.
 
 INCLUDE Source:
 
