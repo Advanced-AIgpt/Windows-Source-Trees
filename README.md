@@ -4,7 +4,7 @@ Windows 7 and other versions, Xbox.
 
 INCLUDE Source:
 
-- DDKs / WKDs (stretching from Win 3.11 to Windows 7)
+- DDKs / WKDs (stretching from Win 3.11 to Windows 7) (DDK (Driver Development Kit) and WDK (Windows Driver Kit))
 - Windows NT 3.5
 - Windows NT 4
 - Windows 2000
