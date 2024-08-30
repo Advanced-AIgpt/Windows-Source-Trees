@@ -9,6 +9,7 @@ INCLUDE Source:
 - DDK (Driver Development Kit)
 - WDK (Windows Driver Kit)
   
+  releases:
 - Windows NT 3.5
 - Windows NT 4
 - Windows 2000
